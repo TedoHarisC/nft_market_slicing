@@ -10,6 +10,7 @@ Star⭐ the repo if you like.
 
 ## Author(s)
 **Tedo Haris Chandra** ([Follow my Instagram](https://instagram.com/dooooo.dev))
+
 Thanks to **Mohid Design** for UI Design ([Link For Design](https://www.figma.com/community/file/1074303832248496745/NFT-Market-App-(Community))) 
 
 ## Getting Started
