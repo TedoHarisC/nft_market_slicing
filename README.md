@@ -8,6 +8,10 @@ Star⭐ the repo if you like.
 
 <img src="ss/1.png"/>
 
+## Author(s)
+**Tedo Haris Chandra** ([Follow my Instagram](https://instagram.com/dooooo.dev))
+Thanks to **Mohid Design** for UI Design ([Link For Design](https://www.figma.com/community/file/1074303832248496745/NFT-Market-App-(Community))) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -20,6 +24,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-#� �n�f�t�_�m�a�r�k�e�t�_�s�l�i�c�i�n�g�
-�
-�
